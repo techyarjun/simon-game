@@ -1,4 +1,4 @@
 # simon-game
-This is for game<br>
+This is Simon's color game<br>
 
 Author ~Arjun ingole
