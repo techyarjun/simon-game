@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    justify-content: space-evenly;
+    display: block;
+}
+
+.body{
+    display: flex;
+}
+.btn-container{
+    display: flex;
+    margin: 15px;
+    padding: 10px;
+    justify-content:center;
+    background-color:aliceblue;
+    border-radius: 1rem;
+    top: 0;
+    width: fit-content;
+    margin-left: 65px;
+    border: 1px solid black;
+
+}
+
+.over{
+    justify-content: center;
+}
+
+.btn{
+    height: 180px;
+    width: 180px;
+    border: 1px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+.game{
+    background-color: aliceblue;
+    border-radius: 1rem;
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 600px;
+    margin-left: 100px;
+    position: fixed;
+}
+
+.simon {
+    font-family: "Cinzel";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+  }
+.red{
+    background-color: rgb(135, 85, 9);
+}
+.green{
+    background-color:rgb(252, 76, 76);
+}
+
+.yellow{
+    background-color: rgb(222, 73, 162);
+}
+
+.blue{
+    background-color: skyblue;
+}
+
+.flash {
+    background-color: white;
+}
+
+
+.userflash{
+    background-color: black;
+}
+
+h2{
+    font-family: "Varela Round";
+    font-weight: 400;
+}
